@@ -1,0 +1,2 @@
+;;; Generated package description from init-open-recentf.el  -*- no-byte-compile: t -*-
+(define-package "init-open-recentf" "20210528.1902" "Invoke a command immediately after startup" '((emacs "24.4")) :commit "c019ea85a9c589815b0af60153858d09bcef130e" :authors '(("USAMI Kenta" . "tadsan@zonu.me")) :maintainer '("USAMI Kenta" . "tadsan@zonu.me") :keywords '("files" "recentf" "after-init-hook") :url "https://github.com/zonuexe/init-open-recentf.el")
